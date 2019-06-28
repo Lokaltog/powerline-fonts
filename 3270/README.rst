@@ -2,7 +2,7 @@
 ====
 
 :Font creator: Ricardo Bánffy
-:Version: 2.0.0
+:Version: 2.0.2
 :Source: https://github.com/rbanffy/3270font
 :License: BSD/CCAS 3.0
 :Patched by: N/A
